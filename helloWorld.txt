@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test 88
-=======
-test 5
->>>>>>> origin/master
+test 100
